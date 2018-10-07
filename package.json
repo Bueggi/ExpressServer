@@ -1,0 +1,24 @@
+{
+  "name": "expressserver",
+  "version": "1.0.0",
+  "description": "This is a tiny express server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bueggi/ExpressServer.git"
+  },
+  "keywords": [
+    "express",
+    "server",
+    "expressjs"
+  ],
+  "author": "Christopher Buecklein",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bueggi/ExpressServer/issues"
+  },
+  "homepage": "https://github.com/Bueggi/ExpressServer#readme"
+}
